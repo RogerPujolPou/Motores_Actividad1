@@ -3,7 +3,22 @@ guid: 0544311b8b5794945815e957040f33dd
 ModelImporter:
   serializedVersion: 24600
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Headlights
+    second: {fileID: 2100000, guid: 9cf488624dda78b48acd33f414087dd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: emptywindows
+    second: {fileID: 2100000, guid: f769701e7c0cb224c988155122ed6dae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wax
+    second: {fileID: 2100000, guid: 5ded74ddf4076ad458670611e683496e, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

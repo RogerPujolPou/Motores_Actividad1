@@ -3,7 +3,12 @@ guid: 8d4883d24b5b3ba41844f662620f86c0
 ModelImporter:
   serializedVersion: 24600
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BAA_PROP_HIBAPRCH
+    second: {fileID: 2100000, guid: 83d82b4c628849d4f9f7356dac233c78, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
