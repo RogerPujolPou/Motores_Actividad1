@@ -3,7 +3,17 @@ guid: 7b5808874fe5c6e4aa26f2dedc046da5
 ModelImporter:
   serializedVersion: 24600
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bookshelf
+    second: {fileID: 2100000, guid: 886389943297e484a9789f8a38455d65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bookshelf_props
+    second: {fileID: 2100000, guid: 30d516e07731c0544abdeb3164a7c52f, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
