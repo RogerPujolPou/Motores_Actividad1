@@ -172,9 +172,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5583451504106845641, guid: c2a27731d7c480444afef22c0e6de890, type: 3}
+      propertyPath: m_Range
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5583451504106845641, guid: c2a27731d7c480444afef22c0e6de890, type: 3}
+      propertyPath: m_Intensity
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 7436089441943865449, guid: c2a27731d7c480444afef22c0e6de890, type: 3}
       propertyPath: m_Name
-      value: PL_chandelier_candle Variant
+      value: PL_chandelier_all_candle
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
