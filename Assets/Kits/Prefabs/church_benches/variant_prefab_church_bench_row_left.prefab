@@ -84,7 +84,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1781611321047829298, guid: 1df5043778de06c46a6471d8acd68301, type: 3}
       propertyPath: m_Name
-      value: prefab_church_bench Variant
+      value: variant_prefab_church_bench_row_left
       objectReference: {fileID: 0}
     - target: {fileID: 2094817676398772601, guid: 1df5043778de06c46a6471d8acd68301, type: 3}
       propertyPath: m_LocalPosition.x
@@ -100,23 +100,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2094817676398772601, guid: 1df5043778de06c46a6471d8acd68301, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.41008934
+      value: 0.39667663
       objectReference: {fileID: 0}
     - target: {fileID: 2094817676398772601, guid: 1df5043778de06c46a6471d8acd68301, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.6791432
+      value: -0.68706423
       objectReference: {fileID: 0}
     - target: {fileID: 2094817676398772601, guid: 1df5043778de06c46a6471d8acd68301, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.521125
+      value: 0.52720284
       objectReference: {fileID: 0}
     - target: {fileID: 2094817676398772601, guid: 1df5043778de06c46a6471d8acd68301, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.31467453
+      value: 0.30438066
       objectReference: {fileID: 0}
     - target: {fileID: 2094817676398772601, guid: 1df5043778de06c46a6471d8acd68301, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: -117.75
+      value: -120
       objectReference: {fileID: 0}
     - target: {fileID: 2094817676398772601, guid: 1df5043778de06c46a6471d8acd68301, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y

@@ -10,7 +10,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -6689036041284674117, guid: 23b84d08a6ba2744881bc39a7b0f1a0d, type: 3}
       propertyPath: m_Name
-      value: lectern
+      value: prefab_lectern
       objectReference: {fileID: 0}
     - target: {fileID: -1860074049857221603, guid: 23b84d08a6ba2744881bc39a7b0f1a0d, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -42,27 +42,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2774220344278030320, guid: 23b84d08a6ba2744881bc39a7b0f1a0d, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.53625834
+      value: 0.49999994
       objectReference: {fileID: 0}
     - target: {fileID: 2774220344278030320, guid: 23b84d08a6ba2744881bc39a7b0f1a0d, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.8440387
+      value: -0.86602545
       objectReference: {fileID: 0}
     - target: {fileID: 2774220344278030320, guid: 23b84d08a6ba2744881bc39a7b0f1a0d, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.002720095
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2774220344278030320, guid: 23b84d08a6ba2744881bc39a7b0f1a0d, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.0042812508
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2774220344278030320, guid: 23b84d08a6ba2744881bc39a7b0f1a0d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: -115.14
+      value: -120
       objectReference: {fileID: 0}
     - target: {fileID: 2774220344278030320, guid: 23b84d08a6ba2744881bc39a7b0f1a0d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -0.58099365
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2774220344278030320, guid: 23b84d08a6ba2744881bc39a7b0f1a0d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z

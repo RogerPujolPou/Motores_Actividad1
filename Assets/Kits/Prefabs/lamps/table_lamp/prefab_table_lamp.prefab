@@ -34,23 +34,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e2821e122f83d1c46972f789c4bda0af, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.965926
+      value: 0.9848078
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e2821e122f83d1c46972f789c4bda0af, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.2588186
+      value: -0.17364825
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e2821e122f83d1c46972f789c4bda0af, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e2821e122f83d1c46972f789c4bda0af, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e2821e122f83d1c46972f789c4bda0af, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: -30
+      value: -20
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e2821e122f83d1c46972f789c4bda0af, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
@@ -62,7 +62,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e2821e122f83d1c46972f789c4bda0af, type: 3}
       propertyPath: m_Name
-      value: Hotel Lamp
+      value: prefab_table_lamp
       objectReference: {fileID: 0}
     - target: {fileID: 1610102491129996155, guid: e2821e122f83d1c46972f789c4bda0af, type: 3}
       propertyPath: m_LocalPosition.x

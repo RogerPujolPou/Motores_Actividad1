@@ -34,35 +34,35 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4794669005218598759, guid: c2985fdabe0f09649848586143c9dfd7, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.5130512
+      value: 0.4980973
       objectReference: {fileID: 0}
     - target: {fileID: 4794669005218598759, guid: c2985fdabe0f09649848586143c9dfd7, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.85555226
+      value: -0.86272997
       objectReference: {fileID: 0}
     - target: {fileID: 4794669005218598759, guid: c2985fdabe0f09649848586143c9dfd7, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.045602553
+      value: -0.07547913
       objectReference: {fileID: 0}
     - target: {fileID: 4794669005218598759, guid: c2985fdabe0f09649848586143c9dfd7, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.052242175
+      value: -0.043577887
       objectReference: {fileID: 0}
     - target: {fileID: 4794669005218598759, guid: c2985fdabe0f09649848586143c9dfd7, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: -61.964
+      value: -120
       objectReference: {fileID: 0}
     - target: {fileID: 4794669005218598759, guid: c2985fdabe0f09649848586143c9dfd7, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 174.8
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4794669005218598759, guid: c2985fdabe0f09649848586143c9dfd7, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: -182.979
+      value: -10
       objectReference: {fileID: 0}
     - target: {fileID: 5125608284099364140, guid: c2985fdabe0f09649848586143c9dfd7, type: 3}
       propertyPath: m_Name
-      value: prefab_altar_cross Variant
+      value: variant_prefab_altar_cross_small
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

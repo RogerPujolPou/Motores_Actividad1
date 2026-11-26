@@ -10,7 +10,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6525543076931996874, guid: 49c685551b05158429bd11c0613719a8, type: 3}
       propertyPath: m_Name
-      value: prefab_bookshelf_01 Variant
+      value: variant_prefab_bookshelf_01_right
       objectReference: {fileID: 0}
     - target: {fileID: 6855786260265502337, guid: 49c685551b05158429bd11c0613719a8, type: 3}
       propertyPath: m_LocalPosition.x
@@ -26,23 +26,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6855786260265502337, guid: 49c685551b05158429bd11c0613719a8, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.3818726
+      value: 0.35355335
       objectReference: {fileID: 0}
     - target: {fileID: 6855786260265502337, guid: 49c685551b05158429bd11c0613719a8, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.59512466
+      value: -0.61237246
       objectReference: {fileID: 0}
     - target: {fileID: 6855786260265502337, guid: 49c685551b05158429bd11c0613719a8, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.5951247
+      value: 0.61237246
       objectReference: {fileID: 0}
     - target: {fileID: 6855786260265502337, guid: 49c685551b05158429bd11c0613719a8, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.38187248
+      value: 0.35355335
       objectReference: {fileID: 0}
     - target: {fileID: 6855786260265502337, guid: 49c685551b05158429bd11c0613719a8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: -114.626
+      value: -120
       objectReference: {fileID: 0}
     - target: {fileID: 6855786260265502337, guid: 49c685551b05158429bd11c0613719a8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
