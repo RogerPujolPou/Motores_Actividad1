@@ -10,7 +10,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -6689036041284674117, guid: 73a9690a1935e8c41b582c43a72ea238, type: 3}
       propertyPath: m_Name
-      value: book_01
+      value: prefab_book_01
       objectReference: {fileID: 0}
     - target: {fileID: -4661199849801882949, guid: 73a9690a1935e8c41b582c43a72ea238, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -18,15 +18,15 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 1187343c0b6c89d47b17c446238c0987, type: 2}
     - target: {fileID: -1319602272410010313, guid: 73a9690a1935e8c41b582c43a72ea238, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.51
+      value: 0.005
       objectReference: {fileID: 0}
     - target: {fileID: -1319602272410010313, guid: 73a9690a1935e8c41b582c43a72ea238, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 15.03
+      value: 0.016
       objectReference: {fileID: 0}
     - target: {fileID: -1319602272410010313, guid: 73a9690a1935e8c41b582c43a72ea238, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 17.92
+      value: 0.006
       objectReference: {fileID: 0}
     - target: {fileID: 2774220344278030320, guid: 73a9690a1935e8c41b582c43a72ea238, type: 3}
       propertyPath: m_LocalScale.x
