@@ -406,7 +406,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1715161076564339494}
   m_Layer: 0
-  m_Name: prefab_papers_groups_01
+  m_Name: prefab_papers_group_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
